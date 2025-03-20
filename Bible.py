@@ -11,3 +11,4 @@ if Bible.capitalize() == "Genesis":  # We capitalize the input to account for ca
     print("You're right!")
 else:
     print("That is not a Bible thing. ")
+# test
